@@ -13,7 +13,7 @@ provider "aws" {
 module "ec2_instance" {
   source  = "terraform-aws-modules/ec2-instance/aws"
 
-  name = "t1"
+  name = "tEst_eC2_iNstance"
 
   instance_type          = "t3.micro"
   key_name               = "as94054_tf"
