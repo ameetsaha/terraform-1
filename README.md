@@ -4,5 +4,5 @@ DevOps:
 Kubernetes, AWS, Terraform(IaC), Linux.
 
 
-as94054_001_tf_nginx_ec2_test:                         This is created to launch an NGINX Webserver to access using http:<Public IP>
-as94054_001_tf_nginx_ec2_test_with_var_data:           This is created to launch the above instance using data resource to fetch ami ID and Object variables
+1. as94054_001_tf_nginx_ec2_test:                         This is created to launch an NGINX Webserver to access using http:<Public IP>
+2. as94054_001_tf_nginx_ec2_test_with_var_data:           This is created to launch the above instance using data resource to fetch ami ID and Object variables
